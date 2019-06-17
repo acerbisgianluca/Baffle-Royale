@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - solid
+  - Handgun
+  - Shotgun
+  - Rifle
+  - TreeMap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - SpawnGun
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: GeneralLayer
+    uniqueID: 3940704525
+    locked: 0
+  - name: Decorations
+    uniqueID: 2742786183
+    locked: 0
+  - name: Player
+    uniqueID: 309609141
+    locked: 0
+  - name: Hiding
+    uniqueID: 2005716945
+    locked: 0
